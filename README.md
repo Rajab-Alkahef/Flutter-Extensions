@@ -1,45 +1,29 @@
 
-
----
-
-```markdown
 # ✨ Flutter Extensions Library
-
 A collection of **handy, concise, and reusable extensions** for Flutter development. These extensions aim to simplify common UI, data, and logic operations, allowing for more readable and maintainable code.
-
----
-
 ## 📦 Features
 
+
+
+```
 - ✅ Widget modifiers (padding, alignment, centering)
 - ✅ String utilities (validation, formatting, parsing, case conversion)
 - ✅ Int utilities (month names)
 - ✅ ScrollController helpers (scroll to top/bottom, position)
 - ✅ Clipboard, DateTime, Color, and Number conversions
-
----
-
+```
 ## Getting Started
 
 Add the `extensions.dart` files to your project.
 
 > 📁 Recommended folder structure:
-```
-
 /lib/core/extensions/
-widget\_extensions.dart
-string\_extensions.dart
-int\_extensions.dart
-scroll\_controller\_extensions.dart
 
-````
-
----
 
 ## 📂 Extensions Overview
 
 ### 🧱 Widget Extensions
-```dart
+````
 Text('Hello').centered().allPadding(padding: 12);
 ````
 
@@ -116,10 +100,4 @@ Text("Welcome to Flutter")
 
 ---
 
-> Made with ❤️ by Flutter developers, for Flutter developers.
-
-```
-
----
-
-```
+> Made with ❤️ by [MHD Rajab Alkahef](https://www.linkedin.com/in/rajabalkahef) and [Mahmoud Kokeh](https://www.linkedin.com/in/mahmoud-kokeh) — developers, for Flutter developers.
