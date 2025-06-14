@@ -99,5 +99,16 @@ Text("Welcome to Flutter")
 ```
 
 ---
+## 👥 Contributors
+
+<a href="https://www.linkedin.com/in/rajabalkahef" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="60" alt="MHD Rajab Alkahef"/>
+</a>
+
+<a href="https://github.com/MahmoudKok">
+  <img src="https://avatars.githubusercontent.com/u/OTHER_USER_ID?v=4" width="60" alt="Mahmoud Kokeh"/>
+</a>
+
+---
 
 > Made with ❤️ by [MHD Rajab Alkahef](https://www.linkedin.com/in/rajabalkahef) and [Mahmoud Kokeh](https://www.linkedin.com/in/mahmoud-kokeh) — developers, for Flutter developers.
