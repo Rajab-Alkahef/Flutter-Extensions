@@ -101,14 +101,15 @@ Text("Welcome to Flutter")
 ---
 ## 👥 Contributors
 
-<a href="https://www.linkedin.com/in/rajabalkahef" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="60" alt="MHD Rajab Alkahef"/>
+
+<a href="https://github.com/Rajab-Alkahef" target="_blank">
+  <img src="https://github.com/Rajab-Alkahef.png" width="60" style="border-radius: 50%;" alt="MHD Rajab Alkahef"/>
 </a>
 
-<a href="https://github.com/MahmoudKok">
-  <img src="https://avatars.githubusercontent.com/u/OTHER_USER_ID?v=4" width="60" alt="Mahmoud Kokeh"/>
+<a href="https://github.com/MahmoudKok" target="_blank">
+  <img src="https://github.com/MahmoudKok.png" width="60" style="border-radius: 50%;" alt="Mahmoud Kokeh"/>
 </a>
 
 ---
 
-> Made with ❤️ by [MHD Rajab Alkahef](https://www.linkedin.com/in/rajabalkahef) and [Mahmoud Kokeh](https://www.linkedin.com/in/mahmoud-kokeh) — developers, for Flutter developers.
+> Made with ❤️ by [MHD Rajab Alkahef](https://www.linkedin.com/in/rajabalkahef) and [Mahmoud Kokeh](https://www.linkedin.com/in/mahmoud-kokeh) developers, for Flutter developers.
